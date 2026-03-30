@@ -49,9 +49,6 @@
               CalmCraft was born from something very personal in my life.
             </p>
             <p>
-              CalmCraft was born from something very personal in my life.
-            </p>
-            <p>
               Whenever I felt stressed or anxious, I didn’t always know how to deal with it. 
               Somehow, I would turn to cooking—not as a routine, but as a way to feel a little more at ease. Even on difficult days, the kitchen became a place of comfort.
               As I explored different dishes and experimented with flavors, cooking slowly became more than just a task—it became a space where I could breathe.
