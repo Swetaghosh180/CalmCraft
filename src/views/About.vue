@@ -46,22 +46,27 @@
           </div>
           <div class="space-y-4 text-text-secondary text-sm leading-relaxed">
             <p>
-              CalmCraft was born from a simple realization: some of my most healing moments happened
-              not in therapy sessions, but in my kitchen.
+              CalmCraft was born from something very personal in my life.
             </p>
             <p>
-              During a particularly difficult period, I found myself making soup every Sunday.
-              Not because I was hungry, but because something about chopping vegetables slowly,
-              stirring the pot, and watching ingredients transform into something nourishing felt like medicine.
+              CalmCraft was born from something very personal in my life.
             </p>
             <p>
-              The kitchen became my sanctuary. The repetitive motions calmed my anxious mind.
-              The smells and textures grounded me in the present moment. The act of creating something
-              with my hands reminded me that I could still make beautiful things, even when everything felt broken.
+              Whenever I felt stressed or anxious, I didn’t always know how to deal with it. 
+              Somehow, I would turn to cooking—not as a routine, but as a way to feel a little more at ease. Even on difficult days, the kitchen became a place of comfort.
+              As I explored different dishes and experimented with flavors, cooking slowly became more than just a task—it became a space where I could breathe.
             </p>
             <p>
-              CalmCraft became the answer to that question — a space for anyone who has ever found
-              comfort in simple, creative acts.
+              What surprised me the most was this: a simple hobby had quietly turned into a form of therapy. Over time, I realized it was never just about cooking.
+              At different stages of my life, I found comfort in different things—art, creative activities, and small moments of doing something for myself.
+            </p>
+            <p>
+              I never cook because it is my responsibility. I cook because I love it.
+              And somewhere in that process, I discovered something important: sometimes, the most powerful healing doesn’t come from big solutions—it comes from small, meaningful moments we create for ourselves.
+            </p>
+            <p>
+              CalmCraft exists to share that feeling with you. 
+              Because maybe, you have something like that too.
             </p>
           </div>
         </section>
